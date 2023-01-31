@@ -1,1 +1,2 @@
-sudo python3 Deauth.py [TargetMAC -- use broadcast to attack network]
+sudo python3 Deauth.py [TargetMAC]
+ -- use broadcast mac address to attack network
